@@ -1,6 +1,8 @@
 # Doc: JavaScript - Object
 Objects in programming can be a combination of variables, functions, and data structures.
 
+<br>
+
 ## Property: key, value pair 
 * key = assigned
 * value = property value = string, int, object, array, method */
@@ -12,7 +14,7 @@ const person = {
     age: 47    // key => age
 }
 ```
-
+<br>
 
 ## Access 
 * const personFName = person.firstName  || person['firstName']

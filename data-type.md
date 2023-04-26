@@ -1,4 +1,4 @@
-# Doc: Javascript - Datatype
+# Javascript: Datatype
 
 1. `String` string is a sequence of characters that is used to represent text. It can include letters, numbers, symbols, and even spaces.
 2. `Number` an integer or a floating-point number 3, 3.234

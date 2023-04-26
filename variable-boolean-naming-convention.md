@@ -1,4 +1,4 @@
-# Doc: Javascript - Variable and Boolean Naming Conventions
+# JavaScript: Variable and Boolean Naming Conventions
 
 ## JavaScript
 

@@ -1,4 +1,4 @@
-# Doc: JavaScript - General Notes and Terminologies
+# JavaScript: General Notes and Terminologies
 ## General
 * `Mutable` Value that can be changed or modified after it has been created.
 * `Code Block` Set of one or more statements that are grouped together and treated as a single unit of execution. Code blocks are denoted by curly braces { }.

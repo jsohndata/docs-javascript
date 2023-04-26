@@ -1,4 +1,4 @@
-# Doc: JavaScript - Array
+# JavaScript: Array
 
 An array is a collection of data elements stored in memory. It is the simplest data structure where each data element can be accessed directly by only using its index number. An array is a "special variable", which can hold more than one value.
 

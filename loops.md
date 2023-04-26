@@ -1,4 +1,4 @@
-# Doc: Javascript - Loop
+# JavaScript: Loop
 
 In JavaScript, loops are used to execute a block of code repeatedly.
 

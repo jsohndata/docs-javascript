@@ -1,4 +1,4 @@
-# Doc: JavaScript - Condition: If, Switch, Ternary
+# Javascript: Condition - If, Switch, Ternary
 
 ## If Statment
 Block of code to be executed, when the condition in the parenthesis are true.

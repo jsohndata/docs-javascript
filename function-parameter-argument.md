@@ -1,4 +1,4 @@
-# Doc: JavaScript - Functions Diagram of Parameters and Arguments
+# JavaScript: Functions - Parameters and Arguments
 
 ![diagram](https://jsohndata.s3.amazonaws.com/images/github-gist/function-parameters-arguments-diagram.webp)
 

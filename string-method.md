@@ -1,4 +1,4 @@
-# Doc: String Methods - JavaScript
+# JavaScript: String Methods
 
 There are about 30 different string methods. Here are some I find useful to know.
 

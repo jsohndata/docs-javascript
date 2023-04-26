@@ -1,4 +1,4 @@
-# Doc: JavaScript - Object
+# JavaScript: Object
 Objects in programming can be a combination of variables, functions, and data structures.
 
 <br>

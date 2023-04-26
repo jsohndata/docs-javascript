@@ -1,4 +1,4 @@
-# Doc: Javascript - forEach() vs map()
+# JavaScript: forEach() vs map()
 
 | | `forEach()` | `map()` |
 | ---         |     ---      |          --- |

@@ -1,4 +1,4 @@
-# Doc: Javascript - Functions: Naming Convention, Parameter and Argument.
+# JavaScript: Functions - Naming Convention
 
 ## Function Naming Convention
 1. `Use descriptive and concise names`: Name your functions according to their purpose, so that it's easy to understand what they do. Keep the function names concise, but not too short that they become ambiguous.

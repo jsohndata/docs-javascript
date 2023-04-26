@@ -1,4 +1,4 @@
-# Doc: Javascript - Array vs Object Diagram
+# JavaScript: Array vs Object Diagram
 
 ![diagram](https://jsohndata.s3.amazonaws.com/images/github-gist/array-compared-to-object-diagram.webp)
 

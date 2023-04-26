@@ -1,4 +1,4 @@
-# Doc: JavaScript - Math, Comparison, and Operator
+# JavaScript: Math, Comparison, and Operator
 
 ## Math Operators
 1. `+` **Addition**: used to add two or more numbers together.

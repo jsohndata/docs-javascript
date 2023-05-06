@@ -1,4 +1,4 @@
-# JavaScript
+# Docs JavaScript
+![logo](https://assenfuego.com/dist/dev/javascript.svg)
 
-## Resource
-* [jsohndata.github.io/common-javascript-math-methods](https://jsohndata.github.io/common-javascript-math-methods/)
+A collection of JavaScript documents that I have gathered for web development and programming purposes.

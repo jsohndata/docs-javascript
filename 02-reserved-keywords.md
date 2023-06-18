@@ -1,4 +1,4 @@
-# JavaScript: Reserved Keywords
+# Reserved Keywords
 
 Keywords have special meanings and are reserved for use by the language itself, so they cannot be used as identifiers (such as variable names, function names, etc.).
 

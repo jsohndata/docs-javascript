@@ -1,8 +1,7 @@
-# JavaScript: Variable and Boolean Naming Conventions
+# Variable and Boolean Naming Conventions
 
-## JavaScript
-
-### Good
+## Variable
+### Favorable
 * camelCase: `const dogName = 'Mesa';`
 
 ### Not Favorable
@@ -13,11 +12,13 @@
 * Pascal `const DogName = ‘Mesa’;`
 * kebab-case `const dog-name = 'Mesa';`
 
+<br>
+
 ## Boolean
-* Favorable
+### Favorable
 `const isBark = false;`
 
-* Not Favorable
+### Not Favorable
 `const bark = false;`
 
 <br>

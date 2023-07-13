@@ -1,39 +1,35 @@
 # Variable and Boolean Naming Conventions
 
-## Variable
-### Favorable
-* camelCase: `const dogName = 'Mesa';`
+## Variable: Favorable
+* camelCase
+  <br> `const dogName = 'Mesa';`
 
-### Not Favorable
-* lowercase: `const dogname = 'Mesa';`
-* snake_case `const dog_name = 'Mesa'; 
-* SCREAMING_SNAKE_CASE `const DOG_NAME = 'Mesa';`
-* All capos `var DOGNAME = ‘Mesa’;`
-* Pascal `const DogName = ‘Mesa’;`
-* kebab-case `const dog-name = 'Mesa';`
+## Variable: Not Favorable
+* lowercase 
+  <br>`const dogname = 'Mesa';`
 
-<br>
+* snake_case
+  <br> `const dog_name = 'Mesa;` 
 
-## Boolean
-### Favorable
-`const isBark = false;`
+* SCREAMING_SNAKE_CASE
+  <br> `const DOG_NAME = 'Mesa';`
+  
+* All CAPS 
+  <br>  `const DOGNAME = ‘Mesa’;`
 
-### Not Favorable
-`const bark = false;`
+* Pascal
+  <br> `const DogName = ‘Mesa’;`
 
-<br>
-
-* Favorable
-`const ideal = true;`
-
-* Not Favorable
-`const areIdeal = true;`
+* kebab-case
+  <br> `const dog-name = 'Mesa';`
 
 <br>
 
-* Favorable
-`const hasOwner = true;`
+## Boolean: Favorable
+* `const isDog = true;`
+* `const hasBark = true;`
 
-* Not Favorable
-`const owner = true;`
+## Boolean: Not Favorable
+* `const dog = false;`
+* `const bark = false;`
 

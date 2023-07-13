@@ -5,29 +5,33 @@ Objects in programming can be a combination of variables, functions, and data st
 
 ## Property: key, value pair 
 * key = assigned
-* value = property value = string, int, object, array, method */
+* value = string, int, object, array, method
 
-```
-const person = {
-    firstName: "Jiho", // key => firstName
-    lastName: "Sohn", // key => lasttName
-    age: 47    // key => age
-}
-```
+    ```
+    const person = {
+        firstName: "Jiho", // key => firstName
+        lastName: "Sohn", // key => lasttName
+        age: 47    // key => age
+    }
+    ```
 <br>
 
-## Access 
-* const personFName = person.firstName  || person['firstName']
-* const personLName = person.lastName || person['lastName']
-* const personaAge = person.age || person['age']
+## Access: Dot Notation
+* `const personFName = person.firstName`
+* `const personLName = person.lastName`
 
+## Access: Bracket Notation
+* `person['firstName']`
+* `person['lastName']`
+
+<br>
 
 ## Mutate Object
-`mutate properties`
-objectName.keyName = newValue
+* Mutate properties
+<br> `objectName.keyName = newValue`
 
-`Add new properties `
-objectName.newKeyName = newValue
+* Add new properties
+<br> `objectName.newKeyName = newValue`
 
-`Delete properties`
-delete objectName.keyName
+* Delete properties
+<br> `delete objectName.keyName`
